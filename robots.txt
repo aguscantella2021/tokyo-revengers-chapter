@@ -1,0 +1,7 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://tokyo-revengers-chapter.herokuapp.com/host-https-tokyo-revengers-chapter.com/sitemap_index.xml
+Sitemap: https://tokyo-revengers-chapter.herokuapp.com/comic-sitemap.xml
+Sitemap: https://tokyo-revengers-chapter.herokuapp.com/page-sitemap.xml
+Sitemap: https://tokyo-revengers-chapter.herokuapp.com/post_tag-sitemap.xml
